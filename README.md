@@ -3,6 +3,6 @@
 Class activity about implementation of dynamic components
 using `map()`.
 
-![Screenshot] (/screenshot.png)
+![Screenshot] (screenshot.png)
 
 By ***Luiggi Rodríguez Aliaga***
