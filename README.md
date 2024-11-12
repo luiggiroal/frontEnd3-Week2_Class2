@@ -3,6 +3,6 @@
 Class activity about implementation of dynamic components
 using `map()`.
 
-![Screenshot] (screenshot.png)
+![Screenshot] (https://raw.githubusercontent.com/luiggiroal/frontEnd3-Week2_Class2/main/screenshot.png)
 
 By ***Luiggi Rodríguez Aliaga***
